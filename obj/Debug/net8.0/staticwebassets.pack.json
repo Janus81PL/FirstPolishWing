@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Libraries\\Blazor\\FirstPolishWing\\FirstPolishWing\\wwwroot\\css\\FirstPolishWingCSS.css",
+      "PackagePath": "staticwebassets\\css\\FirstPolishWingCSS.css"
+    },
+    {
+      "Id": "C:\\Libraries\\Blazor\\FirstPolishWing\\FirstPolishWing\\wwwroot\\css\\TopNavMenuCSS.css",
+      "PackagePath": "staticwebassets\\css\\TopNavMenuCSS.css"
+    },
+    {
       "Id": "C:\\Libraries\\Blazor\\FirstPolishWing\\FirstPolishWing\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

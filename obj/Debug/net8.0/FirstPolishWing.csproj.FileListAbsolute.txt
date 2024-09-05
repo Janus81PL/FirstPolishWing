@@ -18,6 +18,7 @@ C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\FirstPolish
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\FirstPolishWing.runtimeconfig.json
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\FirstPolishWing.dll
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\FirstPolishWing.pdb
+C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\BlazorBootstrap.dll
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -39,6 +40,7 @@ C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\FirstPolish
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\FirstPolishWing.AssemblyInfo.cs
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\FirstPolishWing.csproj.CoreCompileInputs.cache
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\FirstPolishWing.MvcApplicationPartsAssemblyInfo.cache
+C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\FirstPolishWing.sourcelink.json
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\staticwebassets.build.json
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\staticwebassets.development.json
 C:\Libraries\Blazor\FirstPolishWing\FirstPolishWing\obj\Debug\net8.0\staticwebassets\msbuild.FirstPolishWing.Microsoft.AspNetCore.StaticWebAssets.props

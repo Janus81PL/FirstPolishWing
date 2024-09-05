@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A3CW33sDWGk=",
+  "dgSpecHash": "nQdnceSMZ7Q=",
   "success": true,
   "projectFilePath": "C:\\Libraries\\Blazor\\FirstPolishWing\\FirstPolishWing\\FirstPolishWing.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pawelka\\.nuget\\packages\\blazor.bootstrap\\3.0.0\\blazor.bootstrap.3.0.0.nupkg.sha512",
     "C:\\Users\\pawelka\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\pawelka\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
     "C:\\Users\\pawelka\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.6\\microsoft.aspnetcore.components.analyzers.8.0.6.nupkg.sha512",
