@@ -1,5 +1,6 @@
 using FirstPolishWing.Client.Pages;
 using FirstPolishWing.Components;
+using FirstPolishWing.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+
+builder.Services.AddInfrastructure(builder.Configuration);
 
 builder.Services.AddBlazorBootstrap();
 

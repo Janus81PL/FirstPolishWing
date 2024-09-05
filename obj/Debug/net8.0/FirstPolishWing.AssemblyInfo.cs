@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstPolishWing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3406026c0cd32c66aefee1d08ee9c33e74c9a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94ed15e987e5bf791836b616a0643d51e03e213")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstPolishWing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstPolishWing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
